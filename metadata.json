@@ -1,0 +1,6 @@
+{
+  "name": "Zenith Developer Hub",
+  "description": "An all-in-one onboarding, interactive deployment playbook, and testnet toolkit for developers building on the Zenith EVM Testnet (Chain ID: 936485).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
